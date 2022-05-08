@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm currently studying software engineering at Springboard.
+
+
+:mailbox: How to reach me: https://www.linkedin.com/in/marie-hank/
+
 <!--
 **mariered0/mariered0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
